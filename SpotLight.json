@@ -1,0 +1,38 @@
+{
+	"metadata": {
+		"version": 4.6,
+		"type": "Object",
+		"generator": "Object3D.toJSON"
+	},
+	"object": {
+		"uuid": "e8f791f6-2f3c-4093-b351-c28e28086e25",
+		"type": "SpotLight",
+		"name": "SpotLight",
+		"layers": 1,
+		"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,5,10,7.5,1],
+		"up": [0,1,0],
+		"color": 16777215,
+		"intensity": 75,
+		"distance": 0,
+		"angle": 0.3141592653589793,
+		"decay": 2,
+		"penumbra": 0,
+		"shadow": {
+			"camera": {
+				"uuid": "58b2d1a3-8a75-4c99-b09f-172be6be325d",
+				"type": "PerspectiveCamera",
+				"layers": 1,
+				"up": [0,1,0],
+				"fov": 36,
+				"zoom": 1,
+				"near": 0.5,
+				"far": 500,
+				"focus": 10,
+				"aspect": 1,
+				"filmGauge": 35,
+				"filmOffset": 0
+			}
+		},
+		"target": "f355b7a5-d592-477c-8873-e1dbe4d39bcb"
+	}
+}
